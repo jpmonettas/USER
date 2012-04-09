@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="acronym">USER (Unusually Simple Expenses Recorder)</string>
+    <string name="app_name">User</string>
+    <string name="dolars">US$</string>
+    <string name="pesos">$U</string>
+    <string name="cash">$</string>
+    <string name="reports">Reps.</string>
+    <string name="dump">Dump.</string>
+    <string name="totalPesos">Total $U :</string>
+    <string name="totalDolars">Total US$ :</string>
+
+</resources>
